@@ -20,8 +20,8 @@ public class Main {
 				"    <link href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css\" rel=\"stylesheet\" integrity=\"sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB\" crossorigin=\"anonymous\">\n" +
 				"  </head>\n" +
 				"  <body>\n" +
-				"    <a href=\"http://localhost:8082/api/productos\" type=\"button\" class=\"btn btn-outline-success my-4 mx-2\" > <h2>200 OK</h1> </a> \n" +
-				"	<a href=\"http://localhost:8082/swagger-ui/index.html\">http://localhost:8082/swagger-ui/index.html</a>					"+
+				"    <a href=\"http://localhost:8080/api/productos\" type=\"button\" class=\"btn btn-outline-success my-4 mx-2\" > <h2>200 OK</h1> </a> \n" +
+				"	<a href=\"http://localhost:8080/swagger-ui/index.html\">http://localhost:8082/swagger-ui/index.html</a>					"+
 				"    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI\" crossorigin=\"anonymous\"></script>\n" +
 				"  </body>\n" +
 				"</html>";
